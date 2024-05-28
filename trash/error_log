@@ -1,0 +1,12 @@
+[18-Sep-2017 11:46:48 Asia/Kolkata] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'wcodez_rassasy'@'localhost' to database 'wcodez_rassasy' in /home1/wcodez/public_html/demo/rassasy/admin/db.php on line 8
+[18-Sep-2017 11:56:34 Asia/Kolkata] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'wcodez_rassasy'@'localhost' to database 'wcodez_rassasy' in /home1/wcodez/public_html/demo/rassasy/admin/db.php on line 8
+[18-Sep-2017 11:59:20 Asia/Kolkata] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'wcodez_rassasy'@'localhost' to database 'wcodez_rassasy' in /home1/wcodez/public_html/demo/rassasy/admin/db.php on line 8
+[18-Sep-2017 12:08:07 Asia/Kolkata] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'wcodez_rassasy'@'localhost' to database 'wcodez_rassasy' in /home1/wcodez/public_html/demo/rassasy/admin/db.php on line 8
+[18-Sep-2017 13:11:18 Asia/Kolkata] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home1/wcodez/public_html/demo/rassasy/admin/inc/common.php on line 11
+[19-Sep-2017 02:57:26 Asia/Kolkata] PHP Warning:  extract() expects parameter 1 to be array, null given in /home1/wcodez/public_html/demo/rassasy/admin/print.php on line 14
+[19-Sep-2017 02:58:45 Asia/Kolkata] PHP Warning:  extract() expects parameter 1 to be array, null given in /home1/wcodez/public_html/demo/rassasy/admin/print.php on line 14
+[19-Sep-2017 16:20:21 Asia/Kolkata] PHP Warning:  extract() expects parameter 1 to be array, null given in /home1/wcodez/public_html/rassasy.in/bill/view_invoice.php on line 14
+[19-Sep-2017 16:20:31 Asia/Kolkata] PHP Warning:  extract() expects parameter 1 to be array, null given in /home1/wcodez/public_html/rassasy.in/bill/view_invoice.php on line 14
+[19-Sep-2017 16:20:36 Asia/Kolkata] PHP Warning:  extract() expects parameter 1 to be array, null given in /home1/wcodez/public_html/rassasy.in/bill/view_invoice.php on line 14
+[19-Sep-2017 16:20:43 Asia/Kolkata] PHP Warning:  extract() expects parameter 1 to be array, null given in /home1/wcodez/public_html/rassasy.in/bill/view_invoice.php on line 14
+[19-Sep-2017 16:20:50 Asia/Kolkata] PHP Warning:  extract() expects parameter 1 to be array, null given in /home1/wcodez/public_html/rassasy.in/bill/view_invoice.php on line 14
